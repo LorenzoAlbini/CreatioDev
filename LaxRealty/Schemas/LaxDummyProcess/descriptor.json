@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "82465a9e-8950-4162-b0df-1709da7a3717",
+    "Name": "LaxDummyProcess",
+    "ModifiedOnUtc": "\/Date(1742383257000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Dummy Process ",
+    "DependsOn": []
+  }
+}
