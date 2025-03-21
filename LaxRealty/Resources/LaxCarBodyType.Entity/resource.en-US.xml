@@ -4,7 +4,6 @@
 		<Items>
 			<Item Name="Caption" Value="Car Body Type" />
 			<Item Name="Columns.LaxCode.Caption" Value="Code" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
 		</Items>
 	</Group>
 </Resources>

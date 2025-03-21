@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "f7c73b05-37bb-0cc6-1bd5-4093e833b78b",
+    "Name": "LaxDelHugeCars",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1742486194000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

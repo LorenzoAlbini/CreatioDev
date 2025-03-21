@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac209581-66f4-4ce5-acdc-b01f00249d9b",
+    "Name": "LaxVwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1742545496000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact Age in Days (View)",
+    "DependsOn": []
+  }
+}
