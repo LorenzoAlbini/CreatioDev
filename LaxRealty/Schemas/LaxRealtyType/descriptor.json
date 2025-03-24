@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c8ae207-2f7a-4f31-a6b1-d4b18f260e37",
+    "Name": "LaxRealtyType",
+    "ModifiedOnUtc": "\/Date(1742549726000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": " Realty Type",
+    "DependsOn": []
+  }
+}

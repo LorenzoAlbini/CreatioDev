@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "be3758ee-cb57-44fd-8ef8-b5cc3bb74870",
+    "Name": "LaxRealtyRelatedPage",
+    "ModifiedOnUtc": "\/Date(1742547639000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty (Page settings)",
+    "DependsOn": []
+  }
+}

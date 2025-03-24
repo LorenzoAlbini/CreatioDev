@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f484f45d-64f3-4f9d-a961-ab37618e4535",
+    "Name": "LaxRealtyBusinessRule",
+    "ModifiedOnUtc": "\/Date(1742805658000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty (Business rules)",
+    "DependsOn": []
+  }
+}

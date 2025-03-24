@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b142f53c-0690-4193-9063-a36f8f620867",
+    "Name": "LaxRealty_ListPage",
+    "ModifiedOnUtc": "\/Date(1742551970000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty list page"
+  }
+}

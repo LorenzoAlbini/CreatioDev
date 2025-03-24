@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b1bf8f52-4835-4479-bc9d-ff7ee6979771",
+    "Name": "LaxRealty_Detail",
+    "ModifiedOnUtc": "\/Date(1742547639000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty detail",
+    "DependsOn": []
+  }
+}

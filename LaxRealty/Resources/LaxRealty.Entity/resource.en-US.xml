@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty" />
+			<Item Name="Columns.LaxArea.Caption" Value="Area. sq ft" />
+			<Item Name="Columns.LaxCity.Caption" Value="City" />
+			<Item Name="Columns.LaxComment.Caption" Value="Comment" />
+			<Item Name="Columns.LaxCommision.Caption" Value="Commision, USD" />
+			<Item Name="Columns.LaxCountry.Caption" Value="Country" />
+			<Item Name="Columns.LaxManager.Caption" Value="Manager" />
+			<Item Name="Columns.LaxName.Caption" Value="Name" />
+			<Item Name="Columns.LaxNumber.Caption" Value="Number" />
+			<Item Name="Columns.LaxOfferType.Caption" Value="Offer Type" />
+			<Item Name="Columns.LaxPrice.Caption" Value="Price, USD" />
+			<Item Name="Columns.LaxType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

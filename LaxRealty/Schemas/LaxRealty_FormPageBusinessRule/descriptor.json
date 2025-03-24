@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0e74ae3-f364-442c-9ed4-44e04afe04f2",
+    "Name": "LaxRealty_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1742807940000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty form page (Business rules)",
+    "DependsOn": []
+  }
+}
