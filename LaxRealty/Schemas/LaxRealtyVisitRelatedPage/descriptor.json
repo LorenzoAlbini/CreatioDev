@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "898cfd65-24ea-42b4-8968-dfc58b64a8f9",
+    "Name": "LaxRealtyVisitRelatedPage",
+    "ModifiedOnUtc": "\/Date(1742893975000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty Visit (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"SpecialLinks": {
+		"Unsubscribe": "Unsubscribe"
+	},
+	"OpenFreedomEmailDesigner": {
+		"SysSettingsError": "We're unable to connect to service. Please complete “Identity server Url“, “Identity server client id“, “Identity server client secret“ and “Social Web App Account“ system settings and try again."
+	},
+	"UpdateEmailLanguageTemplatesRequestHandler": {
+		"Dialog": {
+			"Title": "Confirmation required",
+			"Message": "By proceeding with this action, the set of templates (totaling {{templatesToDelete}}) associated with your current selection will be permanently deleted. This action cannot be undone. Are you sure you want to continue?",
+			"ConfirmButton": "Confirm",
+			"CancelButton": "Cancel"
+		}
+	}
+}

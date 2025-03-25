@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4a9ed7e4-1ba9-40f6-b191-7e757c339bc8",
+    "Name": "LaxRealtyVisitFormPage",
+    "ModifiedOnUtc": "\/Date(1742893921000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Visit form page"
+  }
+}

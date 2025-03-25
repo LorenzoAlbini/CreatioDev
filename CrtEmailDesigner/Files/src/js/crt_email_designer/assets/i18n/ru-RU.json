@@ -1,0 +1,16 @@
+{
+	"SpecialLinks": {
+		"Unsubscribe": "Отписка"
+	},
+	"OpenFreedomEmailDesigner": {
+		"SysSettingsError": "Нам не удается подключиться к сервису. Пожалуйста, заполните системные настройки «Identity server Url», «Identity server client id“», «Identity server client secret» и «Social Web App Account» и повторите попытку."
+	},
+	"UpdateEmailLanguageTemplatesRequestHandler": {
+		"Dialog": {
+			"Title": "Подтвердите действие",
+			"Message": "При выполнении этого действия набор шаблонов (всего {{templatesToDelete}}), связанных с вашим текущим выбором, будет удален навсегда. Это действие невозможно отменить. Вы уверены, что хотите продолжить?",
+			"ConfirmButton": "Продолжить",
+			"CancelButton": "Отмена"
+		}
+	}
+}

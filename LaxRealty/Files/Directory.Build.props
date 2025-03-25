@@ -1,9 +1,11 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/LaxRealty/Schemas/Account/Account.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/Account/Account.cs')" />
 		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxCarBodyType/LaxCarBodyType.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxCarBodyType/LaxCarBodyType.cs')" />
 		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxRealty/LaxRealty.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxRealty/LaxRealty.cs')" />
 		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxRealtyOfferType/LaxRealtyOfferType.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxRealtyOfferType/LaxRealtyOfferType.cs')" />
 		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxRealtyType/LaxRealtyType.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxRealtyType/LaxRealtyType.cs')" />
+		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxRealtyVisit/LaxRealtyVisit.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxRealtyVisit/LaxRealtyVisit.cs')" />
 		<Compile Include="$(PkgPath)/LaxRealty/Schemas/LaxVwContactAgeDays/LaxVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/LaxRealty/Schemas/LaxVwContactAgeDays/LaxVwContactAgeDays.cs')" />
 	</ItemGroup>
 </Project>

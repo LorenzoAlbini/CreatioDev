@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "898cfd65-24ea-42b4-8968-dfc58b64a8f9",
+      "A2": "LaxRealtyVisitRelatedPage",
+      "A5": "f31822ee-3712-4fd1-8de6-5b3c6483f122",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "e2e38170-e169-4b46-ba95-a236ae76dc2f",
+      "B8": "8.2.2.1870",
+      "AD1": "3faa75dc-435c-47b3-8309-8bdf75a41644",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "517842f7-d591-e269-75f4-8adc47b7043d",
+      "PageSchemaUId": "4a9ed7e4-1ba9-40f6-b191-7e757c339bc8",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}
